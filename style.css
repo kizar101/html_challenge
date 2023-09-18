@@ -1,0 +1,27 @@
+.centered{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+h1{
+		font-family: Arial;
+		font-size: 18px;
+		color: #632920; /*reddish-brown*/
+}
+
+ol{
+	border:#632920 1px solid;
+}
+li{
+	color:# 9954369;
+	font-size:14px;
+}
+
+.highlight{
+	color: #780606;
+}
+#maintext{
+	border: #913d0c 1px dotted;
+	background-color:#edd298;
+}
